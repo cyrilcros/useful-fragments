@@ -1,2 +1,2 @@
 # useful-fragments
-Snippets for R/Python reuse
+Snippets for R/Python reuse. Intended for VSCode.

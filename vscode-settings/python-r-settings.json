@@ -1,0 +1,20 @@
+{
+  "editor.formatOnSave": true,
+  "r.lsp.enabled": true,
+  "r.lsp.diagnostics": true,
+  "r.plot.useHttpgd": true,
+  "r.bracketedPaste": true,
+  "r.alwaysUseActiveTerminal": false,
+  "r.lsp.promptToInstall": true,
+  "r.rpath.linux": "/home/cyril/miniconda/envs/seurat/bin/R",
+  "r.rterm.linux": "/home/cyril/miniconda/envs/seurat/bin/radian",
+  "r.rterm.option": [
+    "--no-save",
+    "--no-restore",
+    "--r-binary=/home/cyril/miniconda/envs/seurat/bin/R"
+  ],
+  "r.rmarkdown.knit.command": "rmarkdown::render",
+  "python.defaultInterpreterPath": "/home/cyril/miniconda/envs/seurat/bin/python",
+  "python.terminal.activateEnvInCurrentTerminal": true,
+  "python.terminal.activateEnvironment": true,
+}
